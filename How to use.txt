@@ -1,0 +1,17 @@
+First input should be 3 doubles, separated by spaces. These are the coordinates of "Point p".
+
+Second input should be 3 doubles as well, separated by spaces. These are the coordinates of "Point q".
+
+Third input should be 4 doubles, separated by spaces. These are the coordinates of the center and radius of "sphereA".
+
+Fourth input should be 4 doubles, separated by spaces. These are the coordinates of the center and radius of "sphereB".
+
+Fifth input should be 4 doubles, separated by spaces. These are the coordinates of the center and side length of "cubeA".
+
+Sixth input should be 4 doubles, separated by spaces. These are the coordinates of the center and side length of "cubeB".
+
+Seventh input should be 5 doubles, separated by spaces. These are the coordinates of the center, radius, and height of "cylA" (Cylinder A).
+
+Seventh input should be 5 doubles, separated by spaces. These are the coordinates of the center, radius, and height of "cylB" (Cylinder B).
+
+This program will give information about the inputted objects. 
